@@ -12,7 +12,7 @@ public class MultiplyTwoNoWithoutOp {
 		for (int i = 1; i <= 5; i++) {
 			c = c + a;
 		}
-		System.out.println(c);
+		System.out.println(c); //100
 
 	}
 
